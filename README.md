@@ -7,4 +7,4 @@ this repo is classified into two branches
   
 
 
-With :heart:, <a href="https://github.com/KodeSage" target="_blank">James Harrison</a> and <a href="https://github.com/theiceeman" target="_blank">KelvinIOT</a>
+With :heart:, <a href="https://github.com/KodeSage" target="_blank">James Harrison</a> 
